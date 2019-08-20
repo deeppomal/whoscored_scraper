@@ -1,5 +1,5 @@
-# whoscored_scrapper
-WhoScored scrapper using Selenium
+# whoscored_scraper
+WhoScored scraper using Selenium
 
 This is a very basic demo on how to scrape data from whoscored for football fans
 
